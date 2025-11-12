@@ -145,6 +145,10 @@ The dashboard provides a **360° view of business operations**, analyzing order 
 ## 🧑‍💻 Author
 
 **Neeraj Kumar**  
-📧 [https://www.linkedin.com/in/krneerajsingh/]
+📧 [LinkedIn Profile](https://www.linkedin.com/in/krneerajsingh/)
 
 ---
+
+## 🪪 License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
